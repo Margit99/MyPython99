@@ -36,3 +36,8 @@ targets the right customer profiles with the appropriate products.
         ● Is there a connection between age and family status in terms of ordering habits?
         ● What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
         ● What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.    
+
+*Data Sets*
+
+Customer Data set https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
+Data Dictionary https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
