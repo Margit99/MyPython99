@@ -1,4 +1,5 @@
-**Instacart Grocery Basket Analysis**
+![image](https://user-images.githubusercontent.com/119622039/205739562-aa572c0a-bfd4-401a-abb9-9b919de0be5e.png)   
+
 
 **Objective**
 
