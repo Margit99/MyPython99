@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/119622039/205739562-aa572c0a-bfd4-401a-abb9-9b919de0be5e.png)   
 
 
-**Objective** 
+**Objective**
 
 As an analyst for an existing company, Instacart, an online grocery store that operates
 through an app. Instacart already has very good sales, but they want to uncover more
